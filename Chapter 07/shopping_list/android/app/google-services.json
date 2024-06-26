@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896786209672",
+    "project_id": "shopping-list-43877",
+    "storage_bucket": "shopping-list-43877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896786209672:android:0940318c88063d044e783d",
+        "android_client_info": {
+          "package_name": "com.ipsipatro.shopping_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmkLqx7ljEvBIRGH8ZJ0wyG7DrIObuC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
